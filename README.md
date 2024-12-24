@@ -1,5 +1,7 @@
 This content is the same that you can read in the pdf file(test_Novasphere.pdf).
+
 Test NovaSphere
+
 Daniele Ugo Coppola
 
 To create a complete project starting from raw leads data to actionable insights in Power BI, you can follow these steps:
